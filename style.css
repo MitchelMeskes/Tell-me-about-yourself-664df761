@@ -1,0 +1,11 @@
+
+body{background-color: white}
+
+input{width: 300px;
+border-radius: 30px}
+
+form{border-radius: 30px}
+
+input.mijnKlasse {width: 30px}
+
+select{border-radius: 30px}
